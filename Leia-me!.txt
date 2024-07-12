@@ -1,2 +1,0 @@
-altere o arquivo app.txt para app.js
-altere o arquivo run.txt para run.bat
