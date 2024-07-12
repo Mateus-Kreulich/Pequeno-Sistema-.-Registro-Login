@@ -1,0 +1,9 @@
+{
+  "messages": {
+    "welcome": "Bem-vindo ao nosso sistema!",
+    "register_success": "Usuário registrado com sucesso.",
+    "login_success": "Login bem-sucedido.",
+    "login_fail": "Nome de usuário ou senha inválidos.",
+    "validation_errors": "Erros de validação:"
+  }
+}
